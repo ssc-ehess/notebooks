@@ -3,3 +3,8 @@
 	url = https://gin.g-node.org/lucasgautheron/science.git
 	datalad-id = 9f72824e-66f5-4217-8673-f75bc761ba1b
 	datalad-url = git@gin.g-node.org:/lucasgautheron/science.git
+[submodule "twitter"]
+	path = twitter
+	url = https://gin.g-node.org/lucasgautheron/twitter.git
+	datalad-id = be051b4b-fb95-4b35-928e-ec30f75e8d64
+	datalad-url = https://gin.g-node.org/lucasgautheron/twitter.git
